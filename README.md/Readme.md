@@ -1,4 +1,4 @@
-# Movie Rating Database (SQL Project)
+# Movie Rating Database Project
 
 ## Project Overview
 
@@ -77,7 +77,7 @@ This table establishes the **relationship between users and movies**.
 The following tools were used in this project:
 
 * **SQL (Structured Query Language)** – for database creation and data querying
-* **MySQL / PostgreSQL / SQLite** – for running SQL queries
+* **MySQL Workbench** – for running SQL queries
 * **GitHub** – for project documentation and version control
 * **CSV (Comma-Separated Values) datasets** – for storing and importing sample data
 
